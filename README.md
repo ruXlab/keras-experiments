@@ -1,10 +1,11 @@
 Experiments with keras
---------------------------------
+==============================
 
+My public sandbox
 
 
 Prepare your environment 
-===============================
+--------------------------
 
 1. Install python3 (you already got it I guess)
 2. Get iPython notebook(jupyter) from [ipython.org](https://ipython.org/)
